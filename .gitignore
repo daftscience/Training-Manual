@@ -49,3 +49,10 @@ captures/
 *.out
 *.toc
 *.xdy
+CernerTrainingManual.acn
+CernerTrainingManual.synctex.gz(busy)
+*.sublime-workspace
+*.acn
+CernerTrainingManual.fdb_latexmk
+*.pdf
+latex_book.sublime-workspace

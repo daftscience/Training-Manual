@@ -56,3 +56,6 @@ CernerTrainingManual.synctex.gz(busy)
 CernerTrainingManual.fdb_latexmk
 *.pdf
 latex_book.sublime-workspace
+*.acn
+*.blg
+CernerTrainingManual.acn
